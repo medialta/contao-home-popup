@@ -1,0 +1,7 @@
+#popup_document button.close {
+    margin-right: 10px;
+    margin-top: 5px;
+    position: absolute;
+    z-index: 9999;
+    right: 0;
+}
