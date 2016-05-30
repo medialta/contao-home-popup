@@ -1,6 +1,16 @@
 <?php
 
 /**
+ * Contao Open Source CMS
+ *
+ * Copyright (c) 2005-2016 Leo Feyer
+ *
+ * @package   Contao
+ * @author    Medialta <contact@medialta.com>
+ * @copyright Medialta 2016
+ */
+
+/**
  * Extend the tl_page palettes
  */
 $GLOBALS['TL_DCA']['tl_page']['palettes']['__selector__'][] = 'popup_enable';

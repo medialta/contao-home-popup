@@ -1,7 +1,27 @@
 <?php
 
+/**
+ * Contao Open Source CMS
+ *
+ * Copyright (c) 2005-2016 Leo Feyer
+ *
+ * @package   Contao
+ * @author    Medialta <contact@medialta.com>
+ * @copyright Medialta 2016
+ */
+
+/**
+ * Namespace
+ */
 namespace Contao;
 
+/**
+ * Class PopUp
+ *
+ * @copyright  Medialta 2016
+ * @author     Medialta <contact@medialta.com>
+ * @package    Contao
+ */
 class PopUp extends \Frontend {
     public function addPopupScripts()
     {

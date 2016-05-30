@@ -1,6 +1,16 @@
 <?php
 
 /**
+ * Contao Open Source CMS
+ *
+ * Copyright (c) 2005-2016 Leo Feyer
+ *
+ * @package   Contao
+ * @author    Medialta <contact@medialta.com>
+ * @copyright Medialta 2016
+ */
+
+/**
  * Fields
  */
 $GLOBALS['TL_LANG']['tl_page']['popup_enable']   = array('Activer pop-up', 'Affiche une pop-up à l\'arrivée sur le site.');
