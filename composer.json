@@ -1,5 +1,5 @@
 {
-    "name": "medialta/contao-home-popup",
+    "name": "medialta/pop-up",
     "description": "home-popup module for Contao Open Source CMS",
     "keywords": ["contao", "home-popup", "popup"],
     "type": "contao-module",
